@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-After stopping my biology studies in 2018, I worked as a Sales Host until the COVID-19 lockdown. After the lockdowns, I also worked in logistics for 2 years until November 2022. Web development has always been a passion for me, so in January 2023, I started self-training. I then continued my training at the Wild Code School to become a web and mobile web developer.
+Web developer
+
+Hi! I m Alhassane Diallo a web developer based in Tours, French. I specialize in building websites and web applications using modern technologies like
 
 * 🌍  I'm based in Tours
 * ✉️  You can contact me at [alsannealdi@hotmail.com](mailto:alsannealdi@hotmail.com)
